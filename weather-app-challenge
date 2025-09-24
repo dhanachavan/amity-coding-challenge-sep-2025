@@ -13,3 +13,53 @@ Your mission is to build a fun and interactive **weather emoji generator** using
 🎯 **Goal**: Use Copilot to build a Python script that takes a city name and returns a weather emoji based on mock weather data.
 
 ---
+
+
+🧩 Challenge Requirements
+1. Setup
+
+Create a new GitHub repo named emoji-weather-wizard
+Add a single Python file: weather.py
+Add a README.md with a short description of your project
+2. Functionality
+Use GitHub Copilot to help you:
+
+Create a dictionary of mock weather data for 5 cities (e.g., Pune, Tokyo, London, NYC, Sydney)
+Map weather conditions to emojis:
+weather_emojis = {
+      "sunny": "☀️",
+      "rainy": "🌧️",
+      "cloudy": "☁️",
+      "stormy": "⛈️",
+      "snowy": "❄️"
+  }
+
+
+
+Write a function get_weather_emoji(city) that returns the emoji for the city's weather
+Add error handling for unknown cities
+3. Bonus (Optional)
+Use Copilot Chat to:
+
+Refactor your code to use classes
+Add a CLI interface using argparse
+Add unit tests using unittest
+
+
+🧠 Tips for Using GitHub Copilot
+
+Start with comments like # Create a dictionary of mock weather data
+Use Copilot Chat to ask: "Can you refactor this into a class?"
+Try Copilot Labs to explain your code or convert it to another language
+
+
+✅ Submission Checklist
+
+Repo created and pushed to GitHub
+weather.py contains working code
+README.md explains the project
+Used GitHub Copilot features (mention in README)
+
+
+🎉 Have Fun!
+Make it colorful, make it clever, and let Copilot be your coding sidekick! 🤖✨
