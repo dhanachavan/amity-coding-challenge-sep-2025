@@ -1,0 +1,15 @@
+ 🚀 GitHub Copilot Coding Challenge: "Emoji Weather Wizard"
+
+Welcome to the **Emoji Weather Wizard** challenge! 🌦️🧙‍♂️
+
+Your mission is to build a fun and interactive **weather emoji generator** using GitHub Copilot. This challenge is designed to help you explore **advanced Copilot features** like:
+- Multi-line code suggestions
+- Natural language prompts
+- Copilot Chat for debugging and refactoring
+- Copilot Labs for code explanation and transformation
+
+⏱️ **Time Limit**: 25 minutes  
+👩‍💻 **Level**: Advanced  
+🎯 **Goal**: Use Copilot to build a Python script that takes a city name and returns a weather emoji based on mock weather data.
+
+---
