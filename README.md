@@ -7,7 +7,6 @@ Welcome to the **Amity Coding Challenge - September 2025** repository! This proj
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
 - [Contributing](#contributing)
 - [License](#license)
 
